@@ -1,0 +1,26 @@
+{
+  "name": "Keuangan Sektor & Komisi - Gereja AMIN Hermon",
+  "short_name": "Keuangan Hermon",
+  "description": "Aplikasi keuangan Sektor dan Komisi Gereja AMIN Hermon Bekasi",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#1E3A5F",
+  "theme_color": "#1E3A5F",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
